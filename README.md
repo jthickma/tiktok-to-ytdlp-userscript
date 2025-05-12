@@ -1,3 +1,9 @@
+# CAUTION!!!!! DANGER!!! 
+
+# AI GENERATED CODE
+## Only tested on brave desktop browser, do not use if you aren't willing to assume immediate spontaneous combustion from this script then dont use it.
+
+# Not my creation, used code from user Dinoosauro, fed into o4-mini and used in the userscript 
 # tiktok-to-ytdlp
 
 Fetch all the liked videos, videos from an user, videos with a specific sound
